@@ -20,14 +20,14 @@ To implement the Factory Design Pattern to send different types of notifications
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstract Factory Pattern using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.Scanner;
 
 // Notification interface
