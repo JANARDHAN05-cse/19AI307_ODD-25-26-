@@ -19,9 +19,9 @@ To write a Java program to find the factorial of a given number.
 ## PROGRAM:
  ```
 /*
-Program to implement a Looping Statement using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
