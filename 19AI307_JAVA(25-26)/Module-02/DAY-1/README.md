@@ -18,9 +18,9 @@ To write a Java program to create and display details of two courses using objec
 ## PROGRAM:
  ```
 /*
-Program to implement a Class and Objects using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
