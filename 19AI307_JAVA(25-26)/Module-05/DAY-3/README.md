@@ -15,14 +15,14 @@ To count and display the total number of characters in a file using FileReader.
 ## PROGRAM:
  ```
 /*
-Program to implement a File Handling using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.io.*;
 
 public class FileCharacterCount {
