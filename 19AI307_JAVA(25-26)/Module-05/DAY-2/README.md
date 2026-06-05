@@ -20,14 +20,14 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
 ## PROGRAM:
  ```
 /*
-Program to implement a Serialization and Deserialization using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.io.*;
 import java.util.Scanner;
 import java.util.zip.GZIPOutputStream;
