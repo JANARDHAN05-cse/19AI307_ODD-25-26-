@@ -20,14 +20,14 @@ To implement the Memento Design Pattern that allows saving and restoring version
 ## PROGRAM:
  ```
 /*
-Program to implement a Behaviour Pattern using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 
 import java.util.*;
 
