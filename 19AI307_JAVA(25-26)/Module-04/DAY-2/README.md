@@ -35,16 +35,16 @@ To simulate a radar control system where only one tower instance handles multipl
 5.	In main(), get the singleton tower instance and register all flights.
 
 ## PROGRAM:
- ```
+  ```
 /*
-Program to implement a SOLID Principles in Java Program
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.*;
 
 class RadarControlTower {
