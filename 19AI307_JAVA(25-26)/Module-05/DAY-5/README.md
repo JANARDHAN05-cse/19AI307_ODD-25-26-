@@ -26,14 +26,14 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
 ## PROGRAM:
  ```
 /*
-Program to implement a Synchronization concept using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.Scanner;
 
 public class SwapSynchronized {
