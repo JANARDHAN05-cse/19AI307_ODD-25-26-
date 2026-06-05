@@ -42,7 +42,7 @@ RegisterNumber: 212224040128
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.Scanner;
 
 
