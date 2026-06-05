@@ -37,14 +37,14 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstraction using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.*;
 
 abstract class GameScore {
