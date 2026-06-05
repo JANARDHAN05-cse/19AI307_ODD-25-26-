@@ -28,9 +28,9 @@ To write a Java program that demonstrates accessing a static variable using both
 ## PROGRAM:
  ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Program to implement a conditional statement using Java
+Developed by: Janardhan P
+RegisterNumber: 212224040128
 */
 ```
 
